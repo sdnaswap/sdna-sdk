@@ -1,4 +1,4 @@
-# Pancakeswap SDK
+# SuperDefi SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/pancakeswap/pancakeswap-sdk/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancakeswap-sdk)
@@ -17,7 +17,7 @@ git clone https://github.com/pancakeswap/pancakeswap-sdk.git
 Move into the pancakeswap-sdk working directory
 
 ```sh
-cd pancakeswap-sdk/
+cd sdna-sdk/
 ```
 
 Install dependencies
